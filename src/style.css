@@ -155,8 +155,8 @@ button:focus {
 }
 
 .logo {
-  height: 1.4em !important;
-  width: 2.5em !important;
+  height: 4em !important;
+  width: 8em !important;
 }
 
 .navbar-nav .nav-link {
@@ -260,12 +260,12 @@ button:focus {
   background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
   background-position: top center;
   background-repeat: no-repeat;
-  padding-bottom: 30px !important;
+  padding-bottom: 0px !important;
   padding-top: 30px !important;
 }
 
 .home-content {
-  padding: 9rem 0 2rem !important;
+  padding: 9rem 0 0rem !important;
   color: whitesmoke;
   text-align: left;
 }
@@ -507,7 +507,7 @@ button:focus {
 .card-img-top {
   padding: 20px !important;
   opacity: 0.8 !important;
-  border-radius: 10px !important;
+  border-radius: 25px !important;
 }
 
 .blog-img {
@@ -515,6 +515,7 @@ button:focus {
   opacity: 0.8 !important;
   border-radius: 0px !important;
 }
+
 
 .btn-primary {
   color: #fff !important;

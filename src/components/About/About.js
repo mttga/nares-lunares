@@ -4,7 +4,7 @@ import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/about.png";
+import aboutImg from "../../Assets/about_collage.png";
 import Toolstack from "./Toolstack";
 
 function About() {
@@ -22,7 +22,7 @@ function About() {
             }}
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              Know Who <strong className="purple">I'M</strong>
+              who are <strong className="purple">las nares</strong>
             </h1>
             <Aboutcard />
           </Col>
@@ -31,21 +31,13 @@ function About() {
             style={{ paddingTop: "120px", paddingBottom: "50px" }}
             className="about-img"
           >
-            <img src={laptopImg} alt="about" className="img-fluid" />
+            <img src={aboutImg} alt="about" className="img-fluid" style={{borderRadius: '35px'}}/>
           </Col>
         </Row>
         <h1 className="project-heading">
-          Professional <strong className="purple">Skillset </strong>
+          Look at us in the <strong className="purple">media </strong> page!
         </h1>
-
-        <Techstack />
-
-        <h1 className="project-heading">
-          <strong className="purple">Tools</strong> I use
-        </h1>
-        <Toolstack />
-
-        <Github />
+  
       </Container>
     </Container>
   );
