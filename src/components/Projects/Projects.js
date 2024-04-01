@@ -23,7 +23,7 @@ function Projects() {
               isBlog={false}
               title="Cu Ti Lu Dissi"
               description="We revisited the sicilian song Cu Ti Lu Dissi by Rosa Balistreri. We kept the drama of the song, buta added some playful elements inspired by the version of BGKO."
-              ytLink="https://youtube.come"
+              ytLink="https://www.youtube.com/@LasNaresLunares"
             />
           </Col>
 
@@ -33,7 +33,7 @@ function Projects() {
               isBlog={false}
               title="Nadie en el Mundo"
               description="We played with the composition of Concha Buika, Nadie en el Mundo, focusing on the flamenco elements of the song."
-              ytLink="https://youtube.come"
+              ytLink="https://www.youtube.com/@LasNaresLunares"
             />
           </Col>
 

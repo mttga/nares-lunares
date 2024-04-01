@@ -32,7 +32,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://www.youtube.com/"
+                  href="https://www.youtube.com/@LasNaresLunares"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -42,7 +42,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/mandorladuo/"
+                  href="https://www.instagram.com/nareslunares"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

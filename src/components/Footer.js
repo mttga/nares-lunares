@@ -21,7 +21,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://youtube.com"
+                href="https://www.youtube.com/@LasNaresLunares"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -31,7 +31,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/mandorladuo"
+                href="https://www.instagram.com/nareslunares"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
