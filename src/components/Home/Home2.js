@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import home2Logo from "../../Assets/three_noses.svg";
+import home2Logo from "../../Assets/three_noses_white.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillInstagram,
