@@ -115,7 +115,7 @@ button:focus {
 
 .navbar-toggler span {
   display: block !important;
-  background-color: var(--marron) !important;
+  background-color: var(--beige) !important;
   height: 4px !important;
   width: 27px !important;
   margin-top: 5px !important;
@@ -162,7 +162,7 @@ button:focus {
   .navbar {
     padding: 1rem 2rem !important;
     font-size: 1.4rem !important;
-    background-color: rgba(58, 34, 16, 0.616) !important;
+    background-color: rgba(58, 34, 16, 0.898) !important;
   }
   .navbar-nav .nav-item a::after {
     display: none !important;
