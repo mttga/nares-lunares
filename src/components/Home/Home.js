@@ -14,15 +14,7 @@ function Home() {
           <Row>
             <Col md={5} className="home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading">
-                hola, 
-                <span className="wave" role="img" aria-labelledby="wave" style={{ paddingLeft: 15 }} >
-                🎻
-                </span>
-              </h1>
-
-              <h1 className="heading-name">
-                somos
-                <strong className="main-name"> Las Nares Lunares </strong>
+                a traditional music trio from Granada 
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
